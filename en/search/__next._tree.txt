@@ -1,5 +1,5 @@
-:HL["/rams-beauty-vitrine/_next/static/chunks/2i64lydyi9whr.css","style"]
+:HL["/rams-beauty-vitrine/_next/static/chunks/3jw8yww3pw73h.css","style"]
 3:[["children",{"s":"__PAGE__","h":160}]]
 2:[["children",{"s":{"n":"slug","t":"oc","k":"search","s":[]},"h":96,"c":"$Q3"}]]
 1:[["children",{"s":{"n":"locale","t":"d","k":"en","s":[]},"h":112,"c":"$Q2"}]]
-0:{"b":"9bRs6AJ1OnfJqLEbsXtoP","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"wrkb6M3y9lWeCojkEg9th","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
